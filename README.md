@@ -22,3 +22,5 @@ Operations:<br>
 <br>Function for printing the snake
 <br>Function for Snake movement(up, down, left, right)
 
+<br>
+![image](https://github.com/qadsa123/Coal-Project/assets/93070187/a75c2fb3-e106-43a5-8c08-9eb44f1ad9aa)
