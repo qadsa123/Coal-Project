@@ -15,7 +15,7 @@ Operations:<br>
 <br>Press any key to continue
 
 <br>
-Key Code Sections:
+<h2>Key Code Sections:</h2>
 <br>Clearing the Screen
 <br>Finding the length of a string
 <br>Printing a string
