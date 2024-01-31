@@ -13,3 +13,12 @@ Operations:<br>
 
 <br>Initial Game message:
 <br>Press any key to continue
+
+<br>
+Key Code Sections:
+<br>Clearing the Screen
+<br>Finding the length of a string
+<br>Printing a string
+<br>Function for printing the snake
+<br>Function for Snake movement(up, down, left, right)
+
