@@ -23,4 +23,14 @@ Operations:<br>
 <br>Function for Snake movement(up, down, left, right)
 
 <br>
-![image](https://github.com/qadsa123/Coal-Project/assets/93070187/a75c2fb3-e106-43a5-8c08-9eb44f1ad9aa)
+
+![coal1](https://github.com/qadsa123/Coal-Project/assets/93070187/35b20e13-4a8a-4ec1-b2d4-ee5647cd2594)
+
+
+
+
+<br>
+
+![coal2](https://github.com/qadsa123/Coal-Project/assets/93070187/0be3aede-002f-4c20-924f-da3015c32004)
+
+
